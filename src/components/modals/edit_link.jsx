@@ -41,6 +41,8 @@ const EditLink = ({ resources, setResources }) => {
         required
       />
 
+      <br/>
+
       <Input
         id="display_name"
         label="Display name"
